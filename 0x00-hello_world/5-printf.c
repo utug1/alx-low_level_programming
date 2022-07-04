@@ -1,7 +1,7 @@
 #include <stdio.h>
 /
- * main - Prints "with proper grammar, but the outcome is a piece of art,"
- * Return: Always 0 (Success)
+ * main - Entry point
+ * Return: Always 0 (success)
  */
 int main(void)
 {
