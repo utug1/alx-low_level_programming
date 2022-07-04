@@ -1,1 +1,1 @@
-ptints with proper grammar
+C program that prints exactly with proper grammar
